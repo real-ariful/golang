@@ -1,0 +1,15 @@
+Coding Chalenge was fun and interesintg:
+1. Write code in Go, without for loop
+2. Upload it to Git Gist
+3. Read paper about TOTP, and make POST request with JSON in body.
+
+
+
+ls
+cd
+git init
+git remote add origin [gitLink]
+git remote -v
+git add .
+git commit -m "First commit"
+git push origin maste
