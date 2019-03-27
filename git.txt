@@ -12,4 +12,4 @@ git remote add origin [gitLink]
 git remote -v
 git add .
 git commit -m "First commit"
-git push origin maste
+git push origin master
